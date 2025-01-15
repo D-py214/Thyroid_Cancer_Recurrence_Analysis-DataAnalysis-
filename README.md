@@ -121,15 +121,15 @@ The project analysis on thyroid cancer recurrence based on clinical, lifestyle, 
 ### Recommendations
 
 - Quit Smoking: Smoking is a significant risk factor for thyroid cancer recurrence. Quitting smoking can reduce the risk of recurrence.
-- 
+  
 - Healthy Diet: A healthy diet rich in fruits, vegetables, and whole grains can help reduce the risk of recurrence.
-- 
+  
 - Regular Exercise: Regular exercise can help reduce the risk of recurrence by improving overall health and reducing stress.
-- 
+  
 - Maintain a Healthy Weight: Maintaining a healthy weight can reduce the risk of recurrence.
-- 
+  
 - Regular Follow-up: Regular follow-up with a healthcare provider can help detect recurrence early, when it is more treatable.
-- 
+  
 - Thyroid Hormone Replacement Therapy: Thyroid hormone replacement therapy can help reduce the risk of recurrence in patients with hypothyroidism.
   
 
